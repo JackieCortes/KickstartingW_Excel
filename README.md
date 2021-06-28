@@ -2,8 +2,10 @@
 
 ## Overview of Project:
 _This piece presents the answer to new Louise’s questions to perform the first challenge for Module I: Excel for the Data Analytics Boot Camp.
-This project is the extension of a first analysis for the same person who wants to know recommendations to launch a campaign for a play called “Fever” in the USA, attempting crowdfunding a goal of 10,000 USD. On this second chance, Louise had more questions regarding the launch dates and the funding goals. It is important to say that her campaign is almost ended.
-The analysis was in Excel. The database contains information from 2010 to 2017 for a different kind of crowdfunding around the Globe. The information included a goal and pledged amounts, backers number, country and start/end dates, project name, outcome, category/subcategory project._
+This project is the extension of a first analysis for the same person who wants to know recommendations to launch a campaign for a play called “Fever” in the USA, attempting crowdfunding a goal of 10,000 USD. 
+On this second chance, Louise had more questions regarding the launch dates and the funding goals. It is important to say that her campaign is almost ended._
+
+_Note:The analysis was in Excel. The database contains information from 2010 to 2017 for a different kind of crowdfunding projects around the Globe. The database included a goal and pledged amounts, backers number, country and start/end dates, project name, outcome, category/subcategory project._
 
 ### Purpose
 This project shows analyses to support new Louise's questions. Now Louise almost reached the fundraising goal for her play "Fever." And, she wanted to know how different the campaign results were depending on their launch dates and funding goals. 

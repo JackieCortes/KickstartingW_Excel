@@ -46,4 +46,4 @@ _Note: From the previous analysis was observed that the usual last of a campaign
   2. A chart or pivot table to show if the campaign's duration impacts the outcome.
   3. If the reasons for the failure or success were available, it would be possible to compare the campaign characteristics.
 
-If you need to see further details, please review [Kickstarter_Challenge.xlsx](https://github.com/JackieCortes/KickstartingW_Excel/blob/main/Kickstarter_Challenge.zip)
+If you need to see further details, please review [Kickstarter_Challenge.zip](https://github.com/JackieCortes/KickstartingW_Excel/blob/main/Kickstarter_Challenge.zip)
